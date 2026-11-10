@@ -1,0 +1,9 @@
+.atribuicoes{
+    width: 50%;
+    height: 80%;
+    background-color: red;
+    color: blue;
+    justify-content: center;
+    align-items: center;
+    display:flex;
+}
